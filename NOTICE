@@ -1,0 +1,10 @@
+Liquid Dock
+Copyright 2025-2026 Liquid Dock Contributors
+
+This product includes software licensed under the Apache License, Version 2.0.
+
+Portions of `liquid-dock/src/main/java/com/liquiddock/internal/` are adapted from
+Kyant0/AndroidLiquidGlass (https://github.com/Kyant0/AndroidLiquidGlass),
+Copyright 2025 Kyant, licensed under the Apache License, Version 2.0.
+See `THIRD_PARTY_NOTICES/AndroidLiquidGlass.md` and
+`THIRD_PARTY_NOTICES/AndroidLiquidGlass-LICENSE.txt` for provenance and modification details.

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liquid Dock</string>
+    <string name="tab_home">首页</string>
+    <string name="tab_inbox">消息</string>
+    <string name="tab_discover">发现</string>
+    <string name="tab_optics">光学</string>
+    <string name="action_create_desc">新建</string>
+    <string name="toggle_badge_format">角标: %1$s</string>
+    <string name="toggle_badge_off">关</string>
+    <string name="toggle_action_on">圆钮: 开</string>
+    <string name="toggle_action_off">圆钮: 关</string>
+    <string name="action_toast_format">独立操作钮已点击 (%1$d)</string>
+
+    <string name="scene_dark_title">暗场动态流</string>
+    <string name="scene_dark_subtitle">上下滑动或按住底栏拖动，观察暗底透光、边缘亮丝与活动水滴折射</string>
+    <string name="scene_light_title">消息</string>
+    <string name="scene_light_subtitle">纯白高调背景：观察底座清透度、外阴影轻重与白字对比</string>
+    <string name="scene_color_title">发现</string>
+    <string name="scene_color_subtitle">彩底透色与高饱和渐变折射测试</string>
+    <string name="scene_optics_title">光学标尺</string>
+    <string name="scene_optics_subtitle">按住底栏并左右慢扫/快滑，观察弯月折射、首末槽环缝分离与边缘色散</string>
+    <string name="optics_mode_grid">正交网格</string>
+    <string name="optics_mode_white">纯白均匀</string>
+    <string name="optics_mode_black">纯黑均匀</string>
+</resources>

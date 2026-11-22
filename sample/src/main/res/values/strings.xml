@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liquid Dock</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_inbox">Inbox</string>
+    <string name="tab_discover">Discover</string>
+    <string name="tab_optics">Optics</string>
+    <string name="action_create_desc">Create</string>
+    <string name="toggle_badge_format">Badge: %1$s</string>
+    <string name="toggle_badge_off">Off</string>
+    <string name="toggle_action_on">FAB: On</string>
+    <string name="toggle_action_off">FAB: Off</string>
+    <string name="action_toast_format">Action button tapped (%1$d)</string>
+
+    <string name="scene_dark_title">Dark Feed</string>
+    <string name="scene_dark_subtitle">Scroll or drag the dock to inspect dark-field rim highlights and live refraction</string>
+    <string name="scene_light_title">Messages</string>
+    <string name="scene_light_subtitle">High-key white background: inspect glass clarity, outer shadows, and label contrast</string>
+    <string name="scene_color_title">Discover</string>
+    <string name="scene_color_subtitle">Saturated gradients for chromatic transmission and lens distortion</string>
+    <string name="scene_optics_title">Optical Ruler</string>
+    <string name="scene_optics_subtitle">Hold and drag across tabs to inspect meniscus bending, endcap separation, and edge dispersion</string>
+    <string name="optics_mode_grid">Orthogonal Grid</string>
+    <string name="optics_mode_white">Pure White</string>
+    <string name="optics_mode_black">Pure Black</string>
+</resources>

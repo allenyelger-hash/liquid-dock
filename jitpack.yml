@@ -1,0 +1,7 @@
+jdk:
+  - openjdk17
+before_install:
+  - yes | "${ANDROID_HOME}/cmdline-tools/latest/bin/sdkmanager" --licenses || true
+  - "${ANDROID_HOME}/cmdline-tools/latest/bin/sdkmanager" "platforms;android-37" "build-tools;36.0.0"
+install:
+  - ./gradlew :liquid-dock:publishReleasePublicationToMavenLocal --no-daemon
